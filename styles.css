@@ -1,0 +1,22 @@
+body {
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+}
+div {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: black;
+}
+
+#red.active {
+    background-color: red;
+}
+
+#yellow.active {
+    background-color: yellow;
+}
+
+#green.active {
+    background-color: green;
+}
