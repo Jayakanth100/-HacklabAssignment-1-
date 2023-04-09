@@ -2,7 +2,7 @@ body {
     display: grid;
     grid-template-columns: 100px 100px 100px;
 }
-div {
+.lights {
     height: 50px;
     width: 50px;
     border-radius: 50%;
